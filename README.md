@@ -6,7 +6,7 @@ An end-to-end machine learning project on a small toy dataset: from raw data, to
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Logistic%20Regression-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://va2nttsqbrxhlp3ij4t2dd.streamlit.app/)
 
-### 🔗 [Live Demo](https://va2nttsqbrxhlp3ij4t2dd.streamlit.app/)
+### 🔗 [Live Demo](https://end-to-end-toy-project-v2hm8bvnqcwffisfjpgcqc.streamlit.app/)
 
 ---
 
