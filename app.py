@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 from sklearn.linear_model import LogisticRegression
 
 st.set_page_config(page_title="Placement Predictor", page_icon="🎓")
